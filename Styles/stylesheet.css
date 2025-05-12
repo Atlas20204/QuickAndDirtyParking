@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'Parking_Fonts';
+    src: url('Assets/Fonts/ShareTech-regular.tff') format('truetype');
+}
+
 #navbar {
     background-color: rgba(255, 255, 255, 0.1);
     backdrop-filter: blur(10px);
@@ -6,6 +11,7 @@
     padding: 15px 30px;
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
+    font-family: 'Parking_Fonts', sans-serif
 }
 
 body {
