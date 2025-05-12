@@ -44,5 +44,6 @@ footer {
 
 #map {
     width: 100%;
-    height: 180px;
+    height: 100%;
+    display: flex;
 }
