@@ -19,3 +19,13 @@ body {
     background-color: green;
     font-family: 'Parking_Fonts', sans-serif;
 }
+
+footer {
+
+}
+
+#navbar-ul {
+    list-style: none;
+    display: flex;
+    gap: 40px;
+}
