@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Parking_Fonts';
-    src: url('../Assets/Fonts/ShareTech-Regular.ttf') format('truetype');
+    src: url('ShareTech-Regular.ttf') format('truetype');
 }
 
 #navbar {
