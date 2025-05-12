@@ -17,8 +17,16 @@
         </div>
         <div id="map-container">
             <div id="map"></div>
-        </div>>
+        </div>
+        <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+        <script>
+            const map = L.map('map').setView([20, 0], 2);
+            L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+            attribution: 'Tiles © Esri',
+            maxZoom: 18
+            }).addTo(map);
+        </script>
     </body>
 
-    <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+    
 </html>
