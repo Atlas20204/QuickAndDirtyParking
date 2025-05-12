@@ -29,3 +29,7 @@ footer {
     display: flex;
     gap: 40px;
 }
+
+#navbar-ul li:hover {
+    color: black;
+}
