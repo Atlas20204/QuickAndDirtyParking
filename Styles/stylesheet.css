@@ -13,7 +13,7 @@
     border-radius: 10px;
     font-family: 'Parking_Fonts', sans-serif;
     font-size: 20px;
-    position: absolute;
+    position: fixed;
     z-index: 1000;
 }
 
@@ -34,7 +34,6 @@ footer {
 
 #navbar-ul {
     list-style: none;
-    display: flex;
     gap:15px;
 }
 
