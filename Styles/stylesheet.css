@@ -7,3 +7,20 @@
     font-family: 'Parking_Text';
     src: url('../Assets/Fonts/PTSans-Regular.ttf') format('truetype');
 }
+
+body {
+
+}
+
+header {
+
+}
+
+footer {
+    position: absolute;
+    background-color: black;
+    color: white;
+    font-family: 'Parking_Text';
+    text-align: center;
+}
+
