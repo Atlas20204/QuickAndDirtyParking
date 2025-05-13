@@ -29,7 +29,9 @@ body {
 }
 
 footer {
-
+    height: 10px;
+    background-color: black;
+    text-align: center;
 }
 
 h1 {
