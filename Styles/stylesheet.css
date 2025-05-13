@@ -62,8 +62,6 @@ button {
     -webkit-backdrop-filter: blur(10px);
     padding: 1rem;
     color: white;
-
-    display: flex;
 }
 
 #textbox button {
