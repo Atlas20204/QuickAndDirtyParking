@@ -44,6 +44,10 @@ p {
     font-family: 'Parking_Text', sans-serif;
 }
 
+button {
+    font-family: 'Parking_Text', sans-serif;
+}
+
 #textbox {
     width: 50%;
     height: 50%;
@@ -55,4 +59,3 @@ p {
     color: white;
 
 }
-
