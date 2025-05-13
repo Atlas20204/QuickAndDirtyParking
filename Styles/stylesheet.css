@@ -9,21 +9,13 @@
 }
 
 body {
-    position: relative;
+    background-color: blue;
 }
 
 header {
-
+    background-color: black;
 }
 
 footer {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
     background-color: black;
-    color: white;
-    font-family: 'Parking_Text';
-    text-align: center;  
 }
-
