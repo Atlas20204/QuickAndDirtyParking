@@ -8,8 +8,12 @@
     src: url('../Assets/Fonts/PTSans-Regular.ttf') format('truetype');
 }
 
-body {
+main {
     background-color: blue;
+}
+
+body {
+    
 }
 
 header {
