@@ -26,11 +26,8 @@ footer {
 }
 
 #textbox {
-    width: 30%;
-    height: 60%;
-    position: absolute;
-    top: 50%;
-    bottom: 50%;
+    max-width: 50%;
+    max-height: 50%;
     border-radius: 10px;
     background-color: black;
     padding: 1rem;
