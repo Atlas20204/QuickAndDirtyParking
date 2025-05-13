@@ -14,8 +14,10 @@ body {
 
 header {
     background-color: black;
+    height: 90px;
 }
 
 footer {
     background-color: black;
+    height: 20px;
 }
