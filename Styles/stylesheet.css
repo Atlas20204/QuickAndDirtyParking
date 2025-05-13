@@ -3,7 +3,12 @@
     src: url('../Assets/Fonts/ShareTech-Regular.ttf') format('truetype');
 }
 
-#navbar {
+html {
+
+}
+
+header {
+
 }
 
 body {
@@ -13,4 +18,15 @@ body {
 
 footer {
 
+}
+
+#textbox {
+    width: 30%;
+    height: 60%;
+    position: absolute;
+    align-content: center;
+}
+
+#textbox, h1 {
+    font-family: 'Parking_Fonts';
 }
